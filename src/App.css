@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_div {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.div_input {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 27%;
+}
